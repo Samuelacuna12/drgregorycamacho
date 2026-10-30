@@ -1,0 +1,65 @@
+{
+  "concept_by": "Samuel Acuña",
+  "practice": "Dr. Gregory Camacho",
+  "official_website": "https://drgregorycamacho.com/en",
+  "reviewed": "2026-10-29",
+  "images": [
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fclinic%2Fworking-1.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "hero",
+      "original_caption": "Dr. Camacho at work"
+    },
+    {
+      "file": "assets/portrait.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fabout%2Fdoctor.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "portrait",
+      "original_caption": "Dr. Gregory Camacho"
+    },
+    {
+      "file": "assets/detail.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fclinic%2Fclinic-interior.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "detail",
+      "original_caption": "State-of-the-art clinic"
+    },
+    {
+      "file": "assets/case1.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fgallery%2Fp6-after.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "case1",
+      "original_caption": "Andrea M. after braces treatment — aligned smile result"
+    },
+    {
+      "file": "assets/case2.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fgallery%2Fp6-before.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "case2",
+      "original_caption": "Andrea M. before orthodontic treatment with metal braces in Bucaramanga"
+    },
+    {
+      "file": "assets/aligners.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fservices%2F7.jpeg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "aligners",
+      "original_caption": "Invisible Aligners"
+    },
+    {
+      "file": "assets/design.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fservices%2F1.jpeg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "design",
+      "original_caption": "Smile Design"
+    },
+    {
+      "file": "assets/implant.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fservices%2F6.jpeg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "implant",
+      "original_caption": "Implant & Crown"
+    }
+  ],
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+}
