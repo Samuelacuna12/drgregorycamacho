@@ -2,7 +2,7 @@
   "concept_by": "Samuel Acuña",
   "practice": "Dr. Gregory Camacho",
   "official_website": "https://drgregorycamacho.com/en",
-  "reviewed": "2026-10-29",
+  "reviewed": "2026-10-30",
   "images": [
     {
       "file": "assets/hero.webp",
@@ -61,5 +61,26 @@
       "original_caption": "Implant & Crown"
     }
   ],
-  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised.",
+  "medical_revision": [
+    {
+      "file": "assets/medical-clinical.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fabout%2Fdoctor.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "clinical"
+    },
+    {
+      "file": "assets/medical-before.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fgallery%2Fp6-before.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "before"
+    },
+    {
+      "file": "assets/medical-after.webp",
+      "source_url": "https://drgregorycamacho.com/_next/image?url=%2Fimages%2Fgallery%2Fp6-after.jpg&w=3840&q=75",
+      "source_page": "https://drgregorycamacho.com/en",
+      "role": "after"
+    }
+  ],
+  "design_status": "Medical identity revision following user feedback"
 }
